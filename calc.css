@@ -1,0 +1,19 @@
+* {
+    background: black;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+dt {
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
